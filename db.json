@@ -1,0 +1,178 @@
+{
+  "topCatData": [
+    {
+      "id": 1,
+      "image": "https://img.icons8.com/?size=512&id=2778&format=png",
+      "title": "Development"
+    },
+    {
+      "id": 2,
+      "image": "https://img.icons8.com/?size=512&id=5bNLU6ys1X6y&format=png",
+      "title": "Business"
+    },
+    {
+      "id": 3,
+      "image": "https://img.icons8.com/?size=512&id=20884&format=png",
+      "title": "Marketing"
+    },
+    {
+      "id": 4,
+      "image": "https://img.icons8.com/?size=512&id=5376&format=png",
+      "title": "Photography"
+    },
+    {
+      "id": 5,
+      "image": "https://img.icons8.com/?size=512&id=EHtxO8ZmA602&format=png",
+      "title": "Music"
+    },
+    {
+      "id": 6,
+      "image": "https://img.icons8.com/?size=512&id=2799&format=png",
+      "title": "UI Design"
+    },
+    {
+      "id": 7,
+      "image": "https://img.icons8.com/?size=512&id=lBuqhXfGV2RT&format=png",
+      "title": "UX Design"
+    },
+    {
+      "id": 8,
+      "image": "https://img.icons8.com/?size=512&id=T2hlOs3PLcaY&format=png",
+      "title": "IT and Software"
+    }
+  ],
+  "courses": [
+    {
+      "id": 9,
+      "image": "https://img.freepik.com/premium-vector/set-mockups-smartphones-with-user-interface-mobile-application_451939-184.jpg?w=740",
+      "title": "UI & UX Design Training",
+      "instructor": "Bill Weinman",
+      "duration": "2h 11min",
+      "view": "1,489,310",
+      "description": "The App Design Course is great for people with absolutely no design experience or experienced designers who want to get up to speed quickly with mobile app design.",
+      "price": 2500
+    },
+    {
+      "id": 10,
+      "image": "https://mlouxk3aanh6.i.optimole.com/w:850/h:540/q:mauto/https://digitalskillsacademyng.com/wp-content/uploads/2021/08/digital-skills.jpg",
+      "title": "Digital Skills: User Experience",
+      "instructor": "Billi Weinmania",
+      "duration": "3 weeks",
+      "view": "1,66,149",
+      "description": "Discover the fundamentals of user experience (UX), the basics of visual design, and the tools needed to become a UX designer.",
+      "price": 1400
+    },
+    {
+      "id": 11,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/2aa16c328a457cb910aa933bf2cd87/Professional-Certificate-Cloud-App.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50",
+      "title": "Software Development",
+      "instructor": "Rav Ahuja",
+      "duration": "4 months",
+      "view": "1,489,310",
+      "description": "Kickstart your career in application development. Master Cloud Native and Full Stack Development using hands-on projects involving HTML, JavaScript, Node.js, Python, Django, Containers, Microservices and more. No prior experience required.",
+      "price": 15000
+    },
+    {
+      "id": 12,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e3/b971b05cfe11e89d97d1bd932bfd30/algs4partI-logo.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&q=50&fit=fill",
+      "title": "Algorithms, Part I",
+      "instructor": "Kevin Wayne",
+      "duration": "2h 11min",
+      "view": "1,489,310",
+      "description": "This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations.",
+      "price": 2000
+    },
+    {
+      "id": 13,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/3f/63c230ac6b11e78079b5cde52a7a37/C1_square.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&q=50&fit=fill",
+      "title": "Programming Fundamentals",
+      "instructor": "Andrew D. Hilton",
+      "duration": "2h 11min",
+      "view": "190,411,310",
+      "description": "Programming is an increasingly important skill, whether you aspire to a career in software development, or in other fields. This course is the first in the specialization Introduction to Programming in C, but its lessons extend to any language you might want to learn. ",
+      "price": 500
+    },
+    {
+      "id": 14,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9b/6a9ff0cb1811e8a19615daa57b354d/CTMOOC_800x800.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50",
+      "title": "Computational Thinking for Problem Solving",
+      "instructor": "Susan Davidson",
+      "duration": "5 weeks",
+      "view": "1,870,310",
+      "description": "Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals.",
+      "price": 20000
+    },
+    {
+      "id": 15,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/2e/fab2a0bb5711e797d69d8eb3c0ee4d/Introduction-to-Cyber-Attacks.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50",
+      "title": "Introduction to Cyber Attacks",
+      "instructor": "Bill Weinman",
+      "duration": "1 weeks",
+      "view": "78649",
+      "description": "Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals.",
+      "price": 1500
+    },
+    {
+      "id": 16,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/fc/c1b8dfbac740999b6256aca490de43/Python-Image.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&q=50&fit=fill",
+      "title": "Python for Data Science",
+      "instructor": "Bill Weinman",
+      "duration": "3 Months",
+      "view": "31435",
+      "description": "Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals.",
+      "price": 15000
+    },
+    {
+      "id": 17,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e8/988c2c9364474399749b5c391be93a/1200x600_certsResize_3.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50",
+      "title": "Build Wireframes",
+      "instructor": "Bill Weinman",
+      "duration": "4 weeks",
+      "view": "6294",
+      "description": "Build Wireframes and Low-Fidelity Prototypes is the third course in a certificate program that will equip you with the skills you need to apply to entry-level jobs in user experience (UX) design",
+      "price": 4000
+    },
+    {
+      "id": 18,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b8/7caade153743ebaf1309aee6cf07c6/AIforBusiness_fundamentals_coursera.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50",
+      "title": "AI Fundamentals",
+      "instructor": "Kartik Hosanagar",
+      "duration": "1 week",
+      "view": "7182",
+      "description": "In this course, you will go in-depth to discover how Machine Learning is used to handle and interpret Big Data. You will get a detailed look at the various ways and methods to create algorithms",
+      "price": 5000
+    },
+    {
+      "id": 19,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera/topics/crypto/large-icon.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50",
+      "title": "Cryptography",
+      "instructor": "Dan Boneh",
+      "duration": "3 Months",
+      "view": "1,489,310",
+      "description": "Cryptography is an indispensable tool for protecting information in computer systems. In this course you will learn the inner workings of cryptographic systems and how to correctly",
+      "price": 12000
+    },
+    {
+      "id": 20,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/41/3b25f3874445ab9d6831dbd39d95a3/LowRes-Original-168621112.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&q=50&fit=fill",
+      "title": "Cybersecurity Framework",
+      "instructor": "Bill Weinman",
+      "duration": "3 months",
+      "view": "72,632",
+      "description": "This course gives you the background needed to understand the key cybersecurity compliance and industry standards.  This knowledge will be important for you to learn no.",
+      "price": 10000
+    }
+  ],
+  "logIn": [
+    {
+      "id": 21,
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "id": 22
+    }
+  ]
+}
